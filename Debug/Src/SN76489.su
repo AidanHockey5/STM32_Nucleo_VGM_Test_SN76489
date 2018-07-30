@@ -1,0 +1,3 @@
+SN76489.c:3:6:SN_Init	0	static
+SN76489.c:8:6:SN_WriteDataPins	16	static
+SN76489.c:22:6:SN_Reset	8	static
